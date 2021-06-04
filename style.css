@@ -192,14 +192,16 @@ background: linear-gradient(to right, #ff9d00, #e65245);
 			width: 50%;
 			float: left
 		}
-
+	
+		@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+		
 		#footer{
 			background-color: #ff9500;
 			bottom: 0;
 			width: 100%;
 			color: white;
 			text-align: left;
-			font-family: cursive;
+			font-family:'Merriweather', serif;
 			font-style: italic;
 			position:relative
 	
@@ -235,7 +237,7 @@ background: linear-gradient(to right, #ff9d00, #e65245);
 			height: 300px;
 		perspective: 1000px;
 			margin: 7px;
-			font-family: Garamond;
+			font-family: Garamond,'Times New Roman', Times, serif;
 		}
 
 		.flip-card-inner {
