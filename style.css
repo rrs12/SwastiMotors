@@ -195,7 +195,7 @@ background: linear-gradient(to right, #ff9d00, #e65245);
 	
 		@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
 		
-		#footer{
+		footer{
 			background-color: #ff9500;
 			bottom: 0;
 			width: 100%;
